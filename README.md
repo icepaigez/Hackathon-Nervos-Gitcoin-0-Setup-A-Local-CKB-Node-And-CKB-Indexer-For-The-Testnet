@@ -6,8 +6,9 @@
 * [Inspiration](#inspiration)
 * [Contact](#contact)
 
-## Screenshot
+## Screenshots
 ![Example screenshot](./img/ckb-indexer.png)
+
 ![Example screenshot](./img/ckb-node.png)
 
 ## Inspiration
